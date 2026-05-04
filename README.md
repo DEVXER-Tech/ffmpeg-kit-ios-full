@@ -10,7 +10,7 @@ This repo is a replacement of `ffmpeg-kit` iOS
 put this below in your `Podfile`, 
 below is replaced from: `pod 'ffmpeg-kit-ios-full'` or `pod 'ffmpeg-kit-ios-full', '6.0'` because this repo is specifically use version 6.0 for iOS
 ```
-pod 'ffmpeg-kit-ios-full', :podspec => 'https://raw.githubusercontent.com/luthviar/ffmpeg-kit-ios-full/main/ffmpeg-kit-ios-full.podspec'
+pod 'ffmpeg-kit-ios-full', :podspec => 'https://raw.githubusercontent.com/DEVXER-Tech/ffmpeg-kit-ios-full/main/ffmpeg-kit-ios-full.podspec'
 ```
 
 then just run this:
