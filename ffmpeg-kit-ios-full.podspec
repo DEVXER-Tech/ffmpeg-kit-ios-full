@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
     s.name             = 'ffmpeg-kit-ios-full'
-    s.version          = '6.0'
+    s.version          = 'v1.0'
     s.summary          = 'Self-hosted FFmpegKit for iOS with GPL components'
     s.description      = 'Statically compiled FFmpegKit xcframeworks for iOS including all GPL-enabled components such as libx264, libmp3lame, libfdk-aac, etc.'
-    s.homepage         = 'https://github.com/luthviar/ffmpeg-kit-ios-full'
+    s.homepage         = 'https://github.com/DEVXER-Tech/ffmpeg-kit-ios-full'
     s.license          = { :type => 'GPL-3.0' }
-    s.author           = { 'luthviar' => 'luthviar.a@gmail.com' }
+    s.author           = { 'luthviar' => 'zahidch052@gmail.com' }
   
     s.platform         = :ios, '12.0'
     s.static_framework = true
